@@ -17,14 +17,20 @@ The goal of this project is to simulate an interview environment and provide use
 
 ## Demo
 
+<p align="center">
+  <img src="./demo_pic/demo1.png" width="45%" />
+  <img src="./demo_pic/demo2.png" width="45%" />
+</p>
 
-![main](./demo_pic/demo1.png)
-![main](./demo_pic/demo2.png)
-![interview](./demo_pic/demo3.png)
-![interview](./demo_pic/demo4.png)
-![result](./demo_pic/demo5.png)
-![result](./demo_pic/demo6.png)
+<p align="center">
+  <img src="./demo_pic/demo3.png" width="45%" />
+  <img src="./demo_pic/demo4.png" width="45%" />
+</p>
 
+<p align="center">
+  <img src="./demo_pic/demo5.png" width="45%" />
+  <img src="./demo_pic/demo6.png" width="45%" />
+</p>
 ---
 
 ## Tech Stack
