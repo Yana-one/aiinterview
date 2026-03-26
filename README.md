@@ -17,12 +17,13 @@ The goal of this project is to simulate an interview environment and provide use
 
 ## Demo
 
-![main](./Users/user/Documents/스크린캡쳐/demo1)
-![main](./Users/user/Documents/스크린캡쳐/demo2)
-![interview](./Users/user/Documents/스크린캡쳐/demo3)
-![interview](./Users/user/Documents/스크린캡쳐/demo4)
-![result](./Users/user/Documents/스크린캡쳐/demo5)
-![result](./Users/user/Documents/스크린캡쳐/demo6)
+
+![main](./Users/user/Documents/개인 프로젝트/demo_pic/demo1)
+![main](./Users/user/Documents/개인 프로젝트/demo_pic/demo2)
+![interview](./Users/user/Documents/개인 프로젝트/demo_pic/demo3)
+![interview](./Users/user/Documents/개인 프로젝트/demo_pic/demo4)
+![result](./Users/user/Documents/개인 프로젝트/demo_pic/demo5)
+![result](./Users/user/Documents/개인 프로젝트/demo_pic/demo6)
 
 ---
 
