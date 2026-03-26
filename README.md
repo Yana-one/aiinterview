@@ -18,12 +18,12 @@ The goal of this project is to simulate an interview environment and provide use
 ## Demo
 
 
-![main](./Users/user/Documents/개인 프로젝트/demo_pic/demo1)
-![main](./Users/user/Documents/개인 프로젝트/demo_pic/demo2)
-![interview](./Users/user/Documents/개인 프로젝트/demo_pic/demo3)
-![interview](./Users/user/Documents/개인 프로젝트/demo_pic/demo4)
-![result](./Users/user/Documents/개인 프로젝트/demo_pic/demo5)
-![result](./Users/user/Documents/개인 프로젝트/demo_pic/demo6)
+![main](./demo_pic/demo1.png)
+![main](./demo_pic/demo2.png)
+![interview](./demo_pic/demo3.png)
+![interview](./demo_pic/demo4.png)
+![result](./demo_pic/demo5.png)
+![result](./demo_pic/demo6.png)
 
 ---
 
