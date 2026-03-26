@@ -35,7 +35,7 @@ The goal of this project is to simulate an interview environment and provide use
 
 ## Tech Stack
 - Frontend: Next.js, TypeScript
-- AI: LLM API (Gemini / OpenAI 등 실제 사용한 걸로 수정)
+- AI: OpenAI API
 - Tools: Git, npm
 
 ---
